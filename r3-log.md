@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Started on [July 31, Friday, 2020]
+# #Round 1 - Started on [July 31, Friday, 2020]
 
 ### Day 0: July 31, 2020
 
