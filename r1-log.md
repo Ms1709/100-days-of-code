@@ -1,10 +1,8 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Started on [July 31, Friday, 2020]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+### Day 0: July 31, 2020
 
-## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+**Today's Progress:** Forked 100DaysOfCode repository and and edit Readme templates.
 
-### R1D2
+**Thoughts:** This time i planned to build streak of 100 Days and track progress using application called **Loop Habit Tracker**. I am thinking of giving my best to my 3rd round of 100DaysOfCode without breaking streak.
